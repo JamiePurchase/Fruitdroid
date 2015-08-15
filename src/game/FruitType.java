@@ -1,0 +1,6 @@
+package game;
+
+public enum FruitType
+{
+    NULL, APPLE, APPLE2, BANANA, CHERRIES, GRAPES, GRAPES2, PINEAPPLE, STRAWBERRY;
+}
